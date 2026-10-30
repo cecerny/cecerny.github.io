@@ -1,0 +1,988 @@
+{
+  "profile": {
+    "name": "Dr. Catherine Cerny",
+    "initials": "CC",
+    "tagline": "· Astronomer · ",
+    "headline": "Extragalactic astronomy & strong gravitational lensing",
+    "bio": "I'm <strong>Catherine Cerny</strong> - I'm a postdoctoral researcher interested in using strong gravitational lensing to study dark matter in galaxy clusters and lensed background source galaxies. ",
+    "role": "Postdoctoral Researcher",
+    "affiliation": "University of Michigan",
+    "photos": [
+      {
+        "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1600&q=80",
+        "alt": "Papers"
+      }
+    ]
+  },
+  "hero": {
+    "welcomeTitle": "Welcome",
+    "studentTitle": "where is this text even",
+    "welcomeText": "please hire me."
+  },
+  "opportunities": {
+    "title": "Open to Collaborate",
+    "summary": "Seeking PhD, MSc, and postdoctoral opportunities, and also open to collaborative research, student supervision support, and interdisciplinary academic partnerships.",
+    "positions": [
+      "Seeking Postdoc position"
+    ]
+  },
+  "expertise": [
+    {
+      "name": "Human-Computer Interaction",
+      "level": "expert"
+    },
+    {
+      "name": "Accessibility",
+      "level": "expert"
+    },
+    {
+      "name": "Reproducible Research",
+      "level": "expert"
+    },
+    {
+      "name": "User Study Design",
+      "level": "advanced"
+    },
+    {
+      "name": "Statistical Analysis",
+      "level": "advanced"
+    },
+    {
+      "name": "Python",
+      "level": "advanced"
+    },
+    {
+      "name": "R / RStudio",
+      "level": "advanced"
+    },
+    {
+      "name": "React / JavaScript",
+      "level": "intermediate"
+    },
+    {
+      "name": "Figma & Sketch",
+      "level": "intermediate"
+    },
+    {
+      "name": "Machine Learning",
+      "level": "intermediate"
+    },
+    {
+      "name": "Assistive Technology",
+      "level": "advanced"
+    },
+    {
+      "name": "LaTeX",
+      "level": "intermediate"
+    },
+    {
+      "name": "Data Visualization",
+      "level": "advanced"
+    },
+    {
+      "name": "Docker & CI/CD",
+      "level": "intermediate"
+    },
+    {
+      "name": "Inclusive Design",
+      "level": "expert"
+    },
+    {
+      "name": "Natural Language Processing",
+      "level": "intermediate"
+    }
+  ],
+  "researchProfile": {
+    "title": "Research Highlights & Interests",
+    "summary": "I work with JWST/HST imaging and ground-based spectroscopy to probe the mass distributions of galaxy clusters using strong gravitational lensing.",
+    "interests": [
+      "Strong gravitational lensing",
+      "Dark matter substructure",
+      "Ly-a emitting galaxies",
+      "Exotic configurations of galaxies",
+      "Sample-level statistical analysis of galaxy cluster properties",
+      ""
+    ],
+    "metrics": [
+      {
+        "label": "Publications",
+        "value": "27"
+      },
+      {
+        "label": "Research Themes",
+        "value": "6"
+      },
+      {
+        "label": "Awards & Certificates",
+        "value": "6"
+      }
+    ],
+    "highlights": [
+      {
+        "title": "Area of Expertise",
+        "description": "My core research.",
+        "items": [
+          "Strong gravitational lens modeling",
+          "Properties of lensed galaxies ",
+          "VLT/MUSE spectroscopic analysis",
+          "JWST/HST image processing and reduction"
+        ]
+      },
+      {
+        "title": "Technical Skills & Frameworks",
+        "description": "Software, tools, and research workflows presented in a more compact academic style.",
+        "items": [
+          {
+            "name": "Python",
+            "icon": "code",
+            "level": "expert",
+            "note": "Data analysis and research scripting."
+          },
+          {
+            "name": "MATLAB",
+            "icon": "monitor",
+            "level": "advanced",
+            "note": "Numerical modeling and engineering computation."
+          },
+          {
+            "name": "LaTeX",
+            "icon": "bib",
+            "level": "advanced",
+            "note": "Academic writing, thesis preparation, and publication formatting."
+          },
+          {
+            "name": "GIS & Mapping Tools",
+            "icon": "globe",
+            "level": "learning",
+            "note": "Spatial data interpretation and field-oriented visualization."
+          }
+        ]
+      },
+      {
+        "title": "Current Research Direction",
+        "description": "Topics that can be emphasized beside the slider and welcome copy.",
+        "items": [
+          "Characterize the benefits of exotic gravitational lensing systems",
+          "",
+          "Correlation of field and laboratory parameters",
+          "Research translation into practical engineering"
+        ]
+      },
+      {
+        "title": "Collaboration Focus",
+        "description": "Themes suitable for future PhD, MSc, or postdoctoral collaboration.",
+        "items": [
+          "Joint publications and applied studies",
+          "Field validation and laboratory extension",
+          "Interdisciplinary civil engineering work",
+          "Academic mentoring and research teamwork"
+        ]
+      }
+    ]
+  },
+ "projects": [
+    {
+      "title": "Assistive UX Toolkit",
+      "subtitle": "Tooling & patterns for inclusive interfaces",
+      "year": "2025",
+      "image": "https://images.unsplash.com/photo-1516321497487-e288fb19713f?auto=format&fit=crop&w=1200&q=80",
+      "description": "A toolkit for designers & developers to build accessible UI components and test assistive workflows.",
+      "longDescription": "This project develops a reusable accessibility-oriented toolkit for interface prototyping, testing, and implementation. It combines design guidance, tested interface patterns, and evaluation workflows to help research teams and developers build more inclusive digital systems.",
+      "demoUrl": "https://example.edu/assistive-ux-demo",
+      "videoUrl": "https://www.youtube.com/embed/Gl5MVtD3flQ",
+      "media": {
+        "featuredVideo": "https://www.youtube.com/embed/Gl5MVtD3flQ",
+        "featuredVideoTitle": "Assistive UX Toolkit Demo",
+        "featuredImage": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1400&q=80",
+        "featuredImageCaption": "Core toolkit interface used for design and accessibility evaluation.",
+        "screenshots": [
+          {
+            "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1200&q=80",
+            "caption": "Design review and collaborative prototyping workflow"
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
+            "caption": "Accessibility testing environment used in project evaluation"
+          }
+        ]
+      },
+      "meta": [
+        {
+          "label": "Focus",
+          "value": "Accessible Interface Research"
+        },
+        {
+          "label": "Methods",
+          "value": "Design Systems, Evaluation, Prototyping"
+        },
+        {
+          "label": "Status",
+          "value": "Ongoing"
+        }
+      ],
+      "highlights": [
+        "Reusable UI patterns for accessible product development",
+        "Evaluation workflow for assistive interaction testing",
+        "Research translation into practical academic and development settings"
+      ],
+      "figures": [
+        {
+          "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1200&q=80",
+          "caption": "Design review and collaborative prototyping workflow"
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
+          "caption": "Accessibility testing environment used in project evaluation"
+        }
+      ],
+      "github": "https://github.com/example/assistive-ux",
+      "url": "https://example.edu/assistive-ux"
+    },
+    {
+      "title": "Repro Pipelines",
+      "subtitle": "Workflows for reproducible experiments",
+      "year": "2024",
+      "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=1200&q=80",
+      "description": "Automated scripts and containerized environments that make experiments reproducible.",
+      "longDescription": "A reproducible research workflow designed to improve consistency across data preparation, experiment execution, analysis, and reporting. The project supports transparent academic practice and faster collaboration among distributed research teams.",
+      "demoUrl": "https://example.edu/repro-pipelines-demo",
+      "videoUrl": "https://www.youtube.com/embed/Gl5MVtD3flQ",
+      "media": {
+        "featuredVideo": "https://www.youtube.com/embed/Gl5MVtD3flQ",
+        "featuredVideoTitle": "Repro Pipelines Workflow Overview",
+        "featuredImage": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1400&q=80",
+        "featuredImageCaption": "Pipeline overview showing code, data, and reproducibility workflow integration.",
+        "screenshots": [
+          {
+            "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+            "caption": "Research computing workflow for repeatable experiment design"
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?auto=format&fit=crop&w=1200&q=80",
+            "caption": "Code, data, and result tracking pipeline"
+          }
+        ]
+      },
+      "meta": [
+        {
+          "label": "Focus",
+          "value": "Reproducible Research Infrastructure"
+        },
+        {
+          "label": "Tools",
+          "value": "Python, Containers, Automation"
+        },
+        {
+          "label": "Output",
+          "value": "Workflow and Experiment Pipelines"
+        }
+      ],
+      "highlights": [
+        "Automated setup for repeatable experiment execution",
+        "Containerized environments for stable academic workflows",
+        "Integrated output pipeline for documentation and reporting"
+      ],
+      "figures": [
+        {
+          "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+          "caption": "Research computing workflow for repeatable experiment design"
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?auto=format&fit=crop&w=1200&q=80",
+          "caption": "Code, data, and result tracking pipeline"
+        }
+      ],
+      "github": "https://github.com/example/repro-pipelines",
+      "url": "https://example.edu/repro-pipelines"
+    },
+    {
+      "title": "Study Portal",
+      "subtitle": "Participant recruitment & consent",
+      "year": "2023",
+      "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80",
+      "description": "A secure, privacy-preserving portal to manage research participants and consent forms.",
+      "longDescription": "A secure project platform supporting participant recruitment, informed consent workflows, and structured research communication. The system was designed to reduce administrative burden while improving privacy and process consistency in study management.",
+      "demoUrl": "https://example.edu/study-portal-demo",
+      "videoUrl": "https://www.youtube.com/embed/Gl5MVtD3flQ",
+      "media": {
+        "featuredVideo": "https://www.youtube.com/embed/Gl5MVtD3flQ",
+        "featuredVideoTitle": "Study Portal Demonstration",
+        "featuredImage": "https://images.unsplash.com/photo-1573497161161-c13f6aa5b321?auto=format&fit=crop&w=1400&q=80",
+        "featuredImageCaption": "Participant-facing workflow and administrative study management environment.",
+        "screenshots": [
+          {
+            "image": "https://images.unsplash.com/photo-1573497161161-c13f6aa5b321?auto=format&fit=crop&w=1200&q=80",
+            "caption": "User-facing participant workflow and communication interface"
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?auto=format&fit=crop&w=1200&q=80",
+            "caption": "Academic collaboration and study management context"
+          }
+        ]
+      },
+      "meta": [
+        {
+          "label": "Focus",
+          "value": "Research Participation Workflow"
+        },
+        {
+          "label": "Scope",
+          "value": "Recruitment, Consent, Data Privacy"
+        },
+        {
+          "label": "Type",
+          "value": "Web-Based Academic Platform"
+        }
+      ],
+      "highlights": [
+        "Structured participant onboarding and consent flow",
+        "Privacy-aware communication and record handling",
+        "Usable administration interface for research teams"
+      ],
+      "figures": [
+        {
+          "image": "https://images.unsplash.com/photo-1573497161161-c13f6aa5b321?auto=format&fit=crop&w=1200&q=80",
+          "caption": "User-facing participant workflow and communication interface"
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?auto=format&fit=crop&w=1200&q=80",
+          "caption": "Academic collaboration and study management context"
+        }
+      ],
+      "github": "https://github.com/example/study-portal",
+      "url": "https://example.edu/study-portal"
+    }
+  ],
+  "publications": [
+      {
+      "title": "Resolving 3 Exotic Hyperbolic-Umbilic Lensing Configurations in the \"Cosmic Mantis\": An Exploration of RXJ0437.1+0043 with JWST",
+      "authors": "Catherine Cerny, David J Lagattuta, Keren Sharon, Gourav Khullar, Benjamin Beauchesne, Alastair C Edge, Mathilde Jauzac, Marceau Limousin, Guillaume Mahler, Lukas J Furtak, Leo Fung, Qiuhan He, Richard J Massey, Ashish K Meena, Adi Zitrin",
+      "highlightAuthor": "Catherine Cerny",
+      "venue": "arXiv preprint arXiv:2609.17852",
+      "year": 2026,
+      "type": "firstauthor",
+      "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=600&h=300&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=200&h=200&fit=crop",
+      "description": "We present an updated strong lensing model for the galaxy cluster RXJ0437.1+0043 (z=0.285) using new JWST NIRCam imaging in four pass-bands. The cluster field notably displays at least three separate ...",
+      "pdfUrl": "https://arxiv.org/abs/2609.17852",
+      "url": "https://arxiv.org/abs/2609.17852",
+      "citations": 0,
+      "bibtex": "@inproceedings{catherine2026,title={Resolving 3 Exotic Hyperbolic-Umbilic Lensing Configurations in the\" Cosmic Mantis\": An Exploration of RXJ0437. 1+ 0043 with JWST},author={Catherine Cerny, David J Lagattuta, Keren Sharon, Gourav Khullar, Benjamin Beauchesne, Alastair C Edge, Mathilde Jauzac, Marceau Limousin, Guillaume Mahler, Lukas J Furtak, Leo Fung, Qiuhan He, Richard J Massey, Ashish K Meena, Adi Zitrin},year={2026}}"
+    },
+        {
+      "title": "SLICE: Unveiling the Multi-Component Merging Core of SPT-CLJ1150-2805 Through Strong-Lensing Mass Modelling",
+      "authors": "James R Betts, Benjamin Beauchesne, Mathilde Jauzac, David Lagattuta, Guillaume Mahler, Jean-Paul Kneib, Gavin Leroy, Marceau Limousin, Priyamvada Natarajan, Sameeksha Saini, Keren Sharon, Stephane V Werner, Catherine Cerny, Isaque Dutra, Dominique Eckert, Alaina Einsig, Michael D Gladders, Gourav Khullar, Manon Regamey",
+      "highlightAuthor": "Catherine Cerny",
+      "venue": "arXiv preprint arXiv:2609.31944",
+      "year": 2026,
+      "type": "contributingauthor",
+      "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=600&h=300&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=200&h=200&fit=crop",
+      "description": "We present a new strong-lensing, X-ray mass model of the merging galaxy cluster SPT-CLJ1150-2805 (), combining JWST NIRCam, HST, Chandra,, VLT/MUSE data to robustly decompose its collisionless a...",
+      "pdfUrl": "https://arxiv.org/abs/2609.31944",
+      "url": "https://arxiv.org/abs/2609.31944",
+      "citations": 1,
+      "bibtex": "@inproceedings{james2026,title={SLICE: Unveiling the Multi-Component Merging Core of SPT-CLJ1150-2805 Through Strong-Lensing Mass Modelling},author={James R Betts, Benjamin Beauchesne, Mathilde Jauzac, David Lagattuta, Guillaume Mahler, Jean-Paul Kneib, Gavin Leroy, Marceau Limousin, Priyamvada Natarajan, Sameeksha Saini, Keren Sharon, Stephane V Werner, Catherine Cerny, Isaque Dutra, Dominique Eckert, Alaina Einsig, Michael D Gladders, Gourav Khullarm, Manon Regamey},year={2026}}"
+    },
+    {
+      "title": "LEGGOS I: The JWST LEGGOS Survey--LEnsing, Galaxy Growth: Observing Substructures--Unpacks the Nature of Clumpy Star Formation, Quenching in Gravitationally Lensed Galaxies beyond Cosmic Noon",
+      "authors": "Gourav Khullar, Michael Florian, Matthew B Bayliss, Taylor A Hutchison, Brian Welch, Keren Sharon, Jane R Rigby, Dylan Berry, T Emil Rivera-Thorsen, Håkon Dahle, Sedona H Price, Nikko J Cleri, Julissa Sarmiento, Guillaume Mahler, Michael D Gladders, Rachel Bezanson, Alex Ross, Pedram Abedi, Rion Oh, John Chisholm, Keunho Kim, Katherine E Whitaker, Aleena Ebey, Cole Panzer, Jacqueline Antwi-Danso, Catherine Cerny, Suhyeon C Choe, Juliana SM Karp, James W Kulp, Tim B Miller, Grace M Olivier, M Riley Owens, David J Setton, Irene Shivaei, Erik Solhaug, Amritaansh Srivastava, Sierra Bet",
+      "highlightAuthor": "Catherine Cerny",
+      "venue": "arXiv preprint arXiv:2606.20845",
+      "year": 2026,
+      "type": "contributingauthor",
+      "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=600&h=300&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=200&h=200&fit=crop",
+      "description": "We present first results from the JWST LEGGOS Survey (LEnsing, Galaxy Growth: Observing Substructures), aimed at studying the physics of clumpy star formation, quenching in eight lensed galaxies...",
+      "pdfUrl": "https://arxiv.org/abs/2606.20845",
+      "url": "https://arxiv.org/abs/2606.20845",
+      "citations": 1,
+      "bibtex": "@inproceedings{gourav2026,title={LEGGOS I: The JWST LEGGOS Survey--LEnsing, Galaxy Growth: Observing Substructures--Unpacks the Nature of Clumpy Star Formation, Quenching in Gravitationally Lensed Galaxies beyond Cosmic Noon},author={Gourav Khullar, Michael Florian, Matthew B Bayliss, Taylor A Hutchison, Brian Welch, Keren Sharon, Jane R Rigby, Dylan Berry, T Emil Rivera-Thorsen, Håkon Dahle, Sedona H Price, Nikko J Cleri, Julissa Sarmiento, Guillaume Mahler, Michael D Gladders, Rachel Bezanson, Alex Ross, Pedram Abedi, Rion Oh, John Chisholm, Keunho Kim, Katherine E Whitaker, Aleena Ebey, Cole Panzer, Jacqueline Antwi-Danso, Catherine Cerny, Suhyeon C Choe, Juliana SM Karp, James W Kulp, Tim B Miller, Grace M Olivier, M Riley Owens, David J Setton, Irene Shivaei, Erik Solhaug, Amritaansh Srivastava, Sierra Bet},year={2026}}"
+    },
+    {
+      "title": "LEGGOS II: A Strong Lens Model, Source-Plane Projection of the Clumpy Star-Forming Galaxy SGASJ111020. 0+ 645950.8 at z= 2.48",
+      "authors": "Pedram Abedi, Keren Sharon, Taylor A Hutchison, Matthew B Bayliss, Michael Florian, Gourav Khullar, Michael D Gladders, Dylan Berry, Catherine Cerny, Håkon Dahle, Aleena Ebey, Juliana SM Karp, Keunho Kim, James W Kulp, Guillaume Mahler, Jane R Rigby, T Emil Rivera-Thorsen, Amritaansh Srivastava, Brian Welch, Alex Ross, Julissa Sarmiento",
+      "highlightAuthor": "Catherine Cerny",
+      "venue": "arXiv preprint arXiv:2606.20804",
+      "year": 2026,
+      "type": "contributingauthor",
+      "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=600&h=300&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=200&h=200&fit=crop",
+      "description": "Strong gravitational lensing by galaxy clusters combined with the resolution of JWST enables studies of star formation on ~10-100 pc scales in galaxies at z~2-4. As part of the LEnsing, Galaxy Grow...",
+      "pdfUrl": "https://arxiv.org/abs/2606.20804",
+      "url": "https://arxiv.org/abs/2606.20804",
+      "citations": 1,
+      "bibtex": "@inproceedings{pedram2026,title={LEGGOS II: A Strong Lens Model, Source-Plane Projection of the Clumpy Star-Forming Galaxy SGASJ111020. 0+ 645950.8 at z= 2.48},author={Pedram Abedi, Keren Sharon, Taylor A Hutchison, Matthew B Bayliss, Michael Florian, Gourav Khullar, Michael D Gladders, Dylan Berry, Catherine Cerny, Håkon Dahle, Aleena Ebey, Juliana SM Karp, Keunho Kim, James W Kulp, Guillaume Mahler, Jane R Rigby, T Emil Rivera-Thorsen, Amritaansh Srivastava, Brian Welch, Alex Ross, Julissa Sarmiento},year={2026}}"
+    },
+    {
+      "title": "SLICE: Combining strong lensing, X-ray data of AC 114: Further insights into the merger scenario",
+      "authors": "Marceau Limousin, Benjamin Beauchesne, Keren Sharon, Dominique Eckert, Guillaume Mahler, Johan Richard, David Lagattuta, Gourav Khullar, Mathilde Jauzac, Mike Gladders, Marco Balboni, Fabio Gastaldello, Stefano Ettori, Catherine Cerny, Eric Jullo, Gavin Leroy, Nency Patel",
+      "highlightAuthor": "Catherine Cerny",
+      "venue": "Astronomy & Astrophysics",
+      "year": 2026,
+      "type": "contributingauthor",
+      "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=600&h=300&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=200&h=200&fit=crop",
+      "description": "AC 114 is a historically significant galaxy cluster, being one of the first strong lensing clusters detected from the ground in the early 1990s, prior to the launch of the Hubble Space Telescope (HST)...",
+      "pdfUrl": "https://www.aanda.org/articles/aa/abs/2026/07/aa58499-25/aa58499-25.html",
+      "url": "https://www.aanda.org/articles/aa/abs/2026/07/aa58499-25/aa58499-25.html",
+      "citations": 4,
+      "bibtex": "@inproceedings{marceau2026,title={SLICE: Combining strong lensing, X-ray data of AC 114: Further insights into the merger scenario},author={Marceau Limousin, Benjamin Beauchesne, Keren Sharon, Dominique Eckert, Guillaume Mahler, Johan Richard, David Lagattuta, Gourav Khullar, Mathilde Jauzac, Mike Gladders, Marco Balboni, Fabio Gastaldello, Stefano Ettori, Catherine Cerny, Eric Jullo, Gavin Leroy, Nency Patel},year={2026}}"
+    },
+    {
+      "title": "Strong lensing, cluster evolution (SLICE) with JWST: early results, lens models,, high-redshift detections",
+      "authors": "Catherine Cerny, Guillaume Mahler, Keren Sharon, Mathilde Jauzac, Gourav Khullar, Benjamin Beauchesne, Jose M Diego, David J Lagattuta, Marceau Limousin, Nency R Patel, Johan Richard, Carla Cornil-Baïotto, Michael D Gladders, Stephane V Werner, Jessica E Doppel, Benjamin Floyd, Anthony H Gonzalez, Richard J Massey, Mireia Montes, Matthew B Bayliss, Lindsey E Bleem, Rebecca EA Canning, Alastair C Edge, Michael McDonald, Priyamvada Natarajan, Antony A Stark, Raven Gassis",
+      "highlightAuthor": "Catherine Cerny",
+      "venue": "The Astrophysical Journal",
+      "year": 2026,
+      "type": "firstauthor",
+      "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=600&h=300&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=200&h=200&fit=crop",
+      "description": "We leverage JWST’s superb resolution to derive strong-lensing mass maps of 14 clusters, spanning a redshift range of z ∼ 0.25–1.06, a mass range of M500 ∼ 2–12 × 1014M⊙, from the Strong LensIng,...",
+      "pdfUrl": "https://iopscience.iop.org/article/10.3847/1538-4357/ae41b0/meta",
+      "url": "https://iopscience.iop.org/article/10.3847/1538-4357/ae41b0/meta",
+      "citations": 22,
+      "bibtex": "@article{catherine2026,title={Strong lensing, cluster evolution (SLICE) with JWST: early results, lens models,, high-redshift detections},author={Catherine Cerny, Guillaume Mahler, Keren Sharon, Mathilde Jauzac, Gourav Khullar, Benjamin Beauchesne, Jose M Diego, David J Lagattuta, Marceau Limousin, Nency R Patel, Johan Richard, Carla Cornil-Baïotto, Michael D Gladders, Stephane V Werner, Jessica E Doppel, Benjamin Floyd, Anthony H Gonzalez, Richard J Massey, Mireia Montes, Matthew B Bayliss, Lindsey E Bleem, Rebecca EA Canning, Alastair C Edge, Michael McDonald, Priyamvada Natarajan, Antony A Stark, Raven Gassis},year={2026}}"
+    },
+      {
+      "title": "SLICE: SPT-CL J0546-5345 — A Prominent Strong-lensing Cluster at z=1.07",
+      "authors": "Joseph FV Allingham, Adi Zitrin, Miriam Golubchik, Lukas J Furtak, Matthew Bayliss, Catherine Cerny, Jose M Diego, Alastair C Edge, Raven Gassis, Michael D Gladders, Mathilde Jauzac, David J Lagattuta, Gavin Leroy, Marceau Limousin, Guillaume Mahler, Ashish K Meena, Priyamvada Natarajan, Keren Sharon",
+      "highlightAuthor": "Catherine Cerny",
+      "venue": "The Astrophysical Journal Letters",
+      "year": 2025,
+      "type": "contributingauthor",
+      "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=600&h=300&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=200&h=200&fit=crop",
+      "description": "Massive galaxy clusters act as prominent strong lenses. Due to a combination of observational biases, cluster evolution,, lensing efficiency, most of the known cluster lenses lie typically at zl ∼ ...",
+      "pdfUrl": "https://iopscience.iop.org/article/10.3847/2041-8213/adfa85/meta",
+      "url": "https://iopscience.iop.org/article/10.3847/2041-8213/adfa85/meta",
+      "citations": 4,
+      "bibtex": "@article{joseph2025,title={SLICE: SPT-CL J0546-5345—A Prominent Strong-lensing Cluster at z = 1.07},author={Joseph FV Allingham, Adi Zitrin, Miriam Golubchik, Lukas J Furtak, Matthew Bayliss, Catherine Cerny, Jose M Diego, Alastair C Edge, Raven Gassis, Michael D Gladders, Mathilde Jauzac, David J Lagattuta, Gavin Leroy, Marceau Limousin, Guillaume Mahler, Ashish K Meena, Priyamvada Natarajan, Keren Sharon},year={2025}}"
+    },
+    {
+      "title": "The Kaleidoscope survey: strong gravitational lensing in galaxy clusters with radial arcs",
+      "authors": "Catherine Cerny, Mathilde Jauzac, David Lagattuta, Anna Niemiec, Guillaume Mahler, Alastair Edge, Richard Massey, Joseph Allingham",
+      "highlightAuthor": "Catherine Cerny",
+      "venue": "Monthly Notices of the Royal Astronomical Society",
+      "year": 2025,
+      "type": "firstauthor",
+      "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=600&h=300&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=200&h=200&fit=crop",
+      "description": "We measure the dark matter density profiles of six galaxy clusters: A383, MS 2137–23, MACS J0326.8−0043, MACS J1427.6–2521, MACS J0417.5−1154,, MACS J0949.8+1708. Each cluster contains at least one...",
+      "pdfUrl": "https://academic.oup.com/mnras/article-abstract/541/3/2341/8193431",
+      "url": "https://academic.oup.com/mnras/article-abstract/541/3/2341/8193431",
+      "citations": 12,
+      "bibtex": "@inproceedings{catherine2025,title={The Kaleidoscope survey: strong gravitational lensing in galaxy clusters with radial arcs},author={Catherine Cerny, Mathilde Jauzac, David Lagattuta, Anna Niemiec, Guillaume Mahler, Alastair Edge, Richard Massey, Joseph Allingham},year={2025}}"
+    },
+    {
+      "title": "Little red dot variability over a century reveals black hole envelope via a giant Einstein cross",
+      "authors": "Zijian Zhang, Mingyu Li, Masamune Oguri, Xiaojing Lin, Kohei Inayoshi, Catherine Cerny, Dan Coe, Jose M Diego, Seiji Fujimoto, Linhua Jiang, Guillaume Mahler, Jorryt Matthee, Rohan P Naidu, Keren Sharon, Yue Shen, Adi Zitrin, Hollis Akins, Joseph FV Allingham, Ricardo Amorín, Yoshihisa Asada, Hakim Atek, Franz E Bauer, Maruša Bradač, Larry D Bradley, Zheng Cai, Sebastiano Cantalupo, Christopher Conselice, Liang Dai, Pratika Dayal, Eiichi Egami, Daniel J Eisenstein,,reas L Faisst, Xiaohui Fan, Qinyue Fei, Brenda L Frye, Yoshinobu Fudamoto, Lukas J Furtak, Miriam Golubchik, Mauro González-Otero, Yuichi Harikane, Tiger Yu-Yang Hsiao, Yolanda Jiménez-Teja, Jeyhan S Kartaltepe, Tomokazu Kiyota, Anton M Koekemoer, Kotaro Kohno, Vasily Kokorev, Nimisha Kumari, Ivo Labbe, Claudia DP Lagos, Conor Larison, Yongming Liang, Ray A Lucas, Jianwei Lyu, Nicholas S Martis, Georgios E Magdis, Matteo Messa, Minami Nakane, Gaël Noirot, Rafael Ortiz III, Masami Ouchi, Justin DR Pierel, Marc Postman, Naveen Reddy, Massimo Ricotti, Daniel Schaerer, Raffaella Schneider, Charles C Steidel, Wei Leong Tee, Roberta Tripodi, James AA Trussler, Hiroya Umeda, Francesco Valentino, Eros Vanzella, Feige Wang, Rogier Windhorst, Yunjing Wu, Zihao Wu, Hiroto Yanagisawa, Jinyi Yang, Fengwu Sun",
+      "highlightAuthor": "Catherine Cerny",
+      "venue": "arXiv preprint arXiv:2512.05180",
+      "year": 2025,
+      "type": "contributingauthor",
+      "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=600&h=300&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=200&h=200&fit=crop",
+      "description": "\"Little red dots\" (LRDs) represent a new population of astronomical objects uncovered by JWST whose nature remains debated. Although many LRDs are suspected as active galactic nuclei (AGN), they show ...",
+      "pdfUrl": "https://arxiv.org/abs/2512.05180",
+      "url": "https://arxiv.org/abs/2512.05180",
+      "citations": 2,
+      "bibtex": "@inproceedings{zijian2025,title={Little red dot variability over a century reveals black hole envelope via a giant Einstein cross},author={Zijian Zhang, Mingyu Li, Masamune Oguri, Xiaojing Lin, Kohei Inayoshi, Catherine Cerny, Dan Coe, Jose M Diego, Seiji Fujimoto, Linhua Jiang, Guillaume Mahler, Jorryt Matthee, Rohan P Naidu, Keren Sharon, Yue Shen, Adi Zitrin, Hollis Akins, Joseph FV Allingham, Ricardo Amorín, Yoshihisa Asada, Hakim Atek, Franz E Bauer, Maruša Bradač, Larry D Bradley, Zheng Cai, Sebastiano Cantalupo, Christopher Conselice, Liang Dai, Pratika Dayal, Eiichi Egami, Daniel J Eisenstein,,reas L Faisst, Xiaohui Fan, Qinyue Fei, Brenda L Frye, Yoshinobu Fudamoto, Lukas J Furtak, Miriam Golubchik, Mauro González-Otero, Yuichi Harikane, Tiger Yu-Yang Hsiao, Yolanda Jiménez-Teja, Jeyhan S Kartaltepe, Tomokazu Kiyota, Anton M Koekemoer, Kotaro Kohno, Vasily Kokorev, Nimisha Kumari, Ivo Labbe, Claudia DP Lagos, Conor Larison, Yongming Liang, Ray A Lucas, Jianwei Lyu, Nicholas S Martis, Georgios E Magdis, Matteo Messa, Minami Nakane, Gaël Noirot, Rafael Ortiz III, Masami Ouchi, Justin DR Pierel, Marc Postman, Naveen Reddy, Massimo Ricotti, Daniel Schaerer, Raffaella Schneider, Charles C Steidel, Wei Leong Tee, Roberta Tripodi, James AA Trussler, Hiroya Umeda, Francesco Valentino, Eros Vanzella, Feige Wang, Rogier Windhorst, Yunjing Wu, Zihao Wu, Hiroto Yanagisawa, Jinyi Yang, Fengwu Sun},year={2025}}"
+    },
+    {
+      "title": "SLICE--Combining Strong Lensing, X-ray in AC\\, 114. Insights into the Merger Scenario",
+      "authors": "Marceau Limousin, Benjamin Beauchesne, Keren Sharon, Johan Richard, Gourav Khullar, Mathilde Jauzac, Mike Gladders, Eric Jullo, Catherine Cerny, Stefano Ettori, Gavin Leroy, Nency Patel",
+      "highlightAuthor": "Catherine Cerny",
+      "venue": "arXiv e-prints",
+      "year": 2025,
+      "type": "contributingauthor",
+      "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=600&h=300&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=200&h=200&fit=crop",
+      "description": "AC114 is a historically significant galaxy cluster, being one of the first strong lensing clusters detected from the ground in the early 1990s, prior to the launch of the HST. Despite this early promi...",
+      "pdfUrl": "https://ui.adsabs.harvard.edu/abs/2025arXiv251209512L/abstract",
+      "url": "https://ui.adsabs.harvard.edu/abs/2025arXiv251209512L/abstract",
+      "citations": 0,
+      "bibtex": "@inproceedings{marceau2025,title={SLICE--Combining Strong Lensing, X-ray in AC\\, 114. Insights into the Merger Scenario},author={Marceau Limousin, Benjamin Beauchesne, Keren Sharon, Johan Richard, Gourav Khullar, Mathilde Jauzac, Mike Gladders, Eric Jullo, Catherine Cerny, Stefano Ettori, Gavin Leroy, Nency Patel},year={2025}}"
+    },
+    {
+      "title": "A Strong Gravitational Lensing Model of PSZ2 G118. 46+ 39.32",
+      "authors": "Isaac Smith, Catherine Cerny, Keren Sharon, Guillaume Mahler, Gourav Khullar, Benjamin Beauchesne, Slice Collaboration",
+      "highlightAuthor": "Catherine Cerny",
+      "venue": "Research Notes of the AAS",
+      "year": 2025,
+      "type": "contributingauthor",
+      "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=600&h=300&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=200&h=200&fit=crop",
+      "description": "We present the first strong gravitational lensing model for the cluster PSZ2 G118.46+39.32 (z = 0.3967) using new NIRCam imaging from the Strong LensIng, Cluster Evolution (SLICE) JWST program. We ...",
+      "pdfUrl": "https://iopscience.iop.org/article/10.3847/2515-5172/ae1c45/meta",
+      "url": "https://iopscience.iop.org/article/10.3847/2515-5172/ae1c45/meta",
+      "citations": 0,
+      "bibtex": "@inproceedings{isaac2025,title={A Strong Gravitational Lensing Model of PSZ2 G118. 46+ 39.32},author={Isaac Smith, Catherine Cerny, Keren Sharon, Guillaume Mahler, Gourav Khullar, Benjamin Beauchesne, Slice Collaboration},year={2025}}"
+    },
+    {
+      "title": "RXJ0437+ 00: constraining dark matter with exotic gravitational lenses",
+      "authors": "David J Lagattuta, Johan Richard, Harald Ebeling, Quentin Basto, Catherine Cerny, Alastair Edge, Mathilde Jauzac, Guillaume Mahler, Richard Massey",
+      "highlightAuthor": "Catherine Cerny",
+      "venue": "Monthly Notices of the Royal Astronomical Society",
+      "year": 2023,
+      "type": "contributingauthor",
+      "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=600&h=300&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=200&h=200&fit=crop",
+      "description": "We present the first strong-gravitational-lensing analysis of the galaxy cluster RX J0437.1+0043 (RXJ0437; z = 0.285). Newly obtained, deep MUSE observations, Keck/MOSFIRE near-infrared spectroscopy, ...",
+      "pdfUrl": "https://academic.oup.com/mnras/article-abstract/522/1/1091/7081353",
+      "url": "https://academic.oup.com/mnras/article-abstract/522/1/1091/7081353",
+      "citations": 32,
+      "bibtex": "@inproceedings{david2023,title={RXJ0437+ 00: constraining dark matter with exotic gravitational lenses},author={David J Lagattuta, Johan Richard, Harald Ebeling, Quentin Basto, Catherine Cerny, Alastair Edge, Mathilde Jauzac, Guillaume Mahler, Richard Massey},year={2023}}"
+    },
+    {
+      "title": "HST-Based Lens Model of SDSS J1226+ 2152, in Preparation for JWST-ERS TEMPLATES",
+      "authors": "Keren Sharon, Catherine Cerny, Jane R Rigby, Michael K Florian, Matthew B Bayliss, Hakon Dahle, Michael D Gladders, Guillaume Mahler",
+      "highlightAuthor": "Catherine Cerny",
+      "venue": "arXiv preprint arXiv:2207.05709",
+      "year": 2022,
+      "type": "contributingauthor",
+      "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=600&h=300&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=200&h=200&fit=crop",
+      "description": "The strongly lensed z=2.9233 Lyman break galaxy, SGAS J122651.3+215220, lensed by a cluster at z=0.4358, was first targeted by JWST as part of the JWST-ERS program TEMPLATES: Targeting Extremely Magni...",
+      "pdfUrl": "https://arxiv.org/abs/2207.05709",
+      "url": "https://arxiv.org/abs/2207.05709",
+      "citations": 0,
+      "bibtex": "@inproceedings{keren2022,title={HST-Based Lens Model of SDSS J1226+ 2152, in Preparation for JWST-ERS TEMPLATES},author={Keren Sharon, Catherine Cerny, Jane R Rigby, Michael K Florian, Matthew B Bayliss, Hakon Dahle, Michael D Gladders, Guillaume Mahler},year={2022}}"
+    },
+    {
+      "title": "RELICS: The Reionization Lensing Cluster Survey, the Brightest High-z Galaxies",
+      "authors": "Brett Salmon, Dan Coe, Larry Bradley, Rychard Bouwens, Marusa Bradač, Kuang-Han Huang, Pascal A Oesch, Daniel Stark, Keren Sharon, Michele Trenti, Roberto J Avila, Sara Ogaz, Felipe,rade-Santos, Daniela Carrasco, Catherine Cerny, William Dawson, Brenda L Frye, Austin Hoag, Traci Lin Johnson, Christine Jones, Daniel Lam, Lorenzo Lovisari, Ramesh Mainali, Matt Past, Rachel Paterno-Mahler, Avery Peterson, Adam G Riess, Steven A Rodney, Russel E Ryan, Irene Sendra-Server, Victoria Strait, Louis-Gregory Strolger, Keiichi Umetsu, Benedetta Vulcani, Adi Zitrin",
+      "highlightAuthor": "Catherine Cerny",
+      "venue": "The Astrophysical Journal",
+      "year": 2020,
+      "type": "contributingauthor",
+      "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=600&h=300&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=200&h=200&fit=crop",
+      "description": "Massive foreground galaxy clusters magnify, distort the light of objects behind them, permitting a view into both the extremely distant, intrinsically faint galaxy populations. We present here t...",
+      "pdfUrl": "https://iopscience.iop.org/article/10.3847/1538-4357/ab5a8b/meta",
+      "url": "https://iopscience.iop.org/article/10.3847/1538-4357/ab5a8b/meta",
+      "citations": 119,
+      "bibtex": "@article{brett2020,title={RELICS: The Reionization Lensing Cluster Survey, the Brightest High-z Galaxies},author={Brett Salmon, Dan Coe, Larry Bradley, Rychard Bouwens, Marusa Bradač, Kuang-Han Huang, Pascal A Oesch, Daniel Stark, Keren Sharon, Michele Trenti, Roberto J Avila, Sara Ogaz, Felipe,rade-Santos, Daniela Carrasco, Catherine Cerny, William Dawson, Brenda L Frye, Austin Hoag, Traci Lin Johnson, Christine Jones, Daniel Lam, Lorenzo Lovisari, Ramesh Mainali, Matt Past, Rachel Paterno-Mahler, Avery Peterson, Adam G Riess, Steven A Rodney, Russel E Ryan, Irene Sendra-Server, Victoria Strait, Louis-Gregory Strolger, Keiichi Umetsu, Benedetta Vulcani, Adi Zitrin},year={2020}}"
+    },
+    {
+      "title": "The galactic plane infrared polarization survey (GPIPS): Data release 4",
+      "authors": "Dan P Clemens, Lauren R Cashman, Catherine Cerny, AM El-Batal, KE Jameson, R Marchwinski, Jordan Montgomery, M Pavel, A Pinnick, BW Taylor",
+      "highlightAuthor": "Catherine Cerny",
+      "venue": "The Astrophysical Journal Supplement Series",
+      "year": 2020,
+      "type": "contributingauthor",
+      "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=600&h=300&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=200&h=200&fit=crop",
+      "description": "The Galactic Plane Infrared Polarization Survey (GPIPS) seeks to characterize the magnetic field in the dusty Galactic disk using near-infrared stellar polarimetry. All GPIPS observations were complet...",
+      "pdfUrl": "https://iopscience.iop.org/article/10.3847/1538-4365/ab9f30/meta",
+      "url": "https://iopscience.iop.org/article/10.3847/1538-4365/ab9f30/meta",
+      "citations": 32,
+      "bibtex": "@article{dan2020,title={The galactic plane infrared polarization survey (GPIPS): Data release 4},author={Dan P Clemens, Lauren R Cashman, Catherine Cerny, AM El-Batal, KE Jameson, R Marchwinski, Jordan Montgomery, M Pavel, A Pinnick, BW Taylor},year={2020}}"
+    },
+    {
+      "title": "Free-form Lens Model, Mass Estimation of the High-redshift Galaxy Cluster ACT-CL J0102-4915,“El Gordo”",
+      "authors": "Jose M Diego, Sándor Mihály Molnar, Catherine Cerny, Tom Broadhurst, R Windhorst, A Zitrin, R Bouwens, D Coe, C Conselice, K Sharon",
+      "highlightAuthor": "Catherine Cerny",
+      "venue": "The Astrophysical Journal",
+      "year": 2020,
+      "type": "contributingauthor",
+      "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=600&h=300&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=200&h=200&fit=crop",
+      "description": "We examine the massive colliding cluster El Gordo, one of the most massive clusters at high redshift. We use a free-form lensing reconstruction method that avoids making assumptions about the mass dis...",
+      "pdfUrl": "https://iopscience.iop.org/article/10.3847/1538-4357/abbf56/meta",
+      "url": "https://iopscience.iop.org/article/10.3847/1538-4357/abbf56/meta",
+      "citations": 27,
+      "bibtex": "@article{jose2020,title={Free-form Lens Model, Mass Estimation of the High-redshift Galaxy Cluster ACT-CL J0102-4915,“El Gordo”},author={Jose M Diego, Sándor Mihály Molnar, Catherine Cerny, Tom Broadhurst, R Windhorst, A Zitrin, R Bouwens, D Coe, C Conselice, K Sharon},year={2020}}"
+    },
+    {
+      "title": "RELICS: A Very Large (θE ∼ 40″) Cluster Lens—RXC J0032.1+1808",
+      "authors": "Ana Acebron, Adi Zitrin, Dan Coe, Guillaume Mahler, Keren Sharon, Masamune Oguri, Maruša Bradač, Larry D Bradley, Brenda Frye, Christine J Forman, Victoria Strait, Yuanyuan Su, Keiichi Umetsu, Felipe,rade-Santos, Roberto J Avila, Daniela Carrasco, Catherine Cerny, Nicole G Czakon, William A Dawson, Carter Fox, Austin T Hoag, Kuang-Han Huang, Traci L Johnson, Shotaro Kikuchihara, Daniel Lam, Lorenzo Lovisari, Ramesh Mainali, Mario Nonino, Pascal A Oesch, Sara Ogaz, Masami Ouchi, Matthew Past, Rachel Paterno-Mahler, Avery Peterson, Russell E Ryan, Brett Salmon, Daniel P Stark, Sune Toft, Michele Trenti, Benedetta Vulcani, Brian Welch",
+      "highlightAuthor": "Catherine Cerny",
+      "venue": "The Astrophysical Journal",
+      "year": 2020,
+      "type": "contributingauthor",
+      "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=600&h=300&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=200&h=200&fit=crop",
+      "description": "Extensive surveys with the Hubble Space Telescope over the past decade, targeting some of the most massive clusters in the sky, have uncovered dozens of galaxy cluster strong lenses. The massive clust...",
+      "pdfUrl": "https://iopscience.iop.org/article/10.3847/1538-4357/ab929d/meta",
+      "url": "https://iopscience.iop.org/article/10.3847/1538-4357/ab929d/meta",
+      "citations": 25,
+      "bibtex": "@article{ana2020,title={RELICS: A Very Large (θE ∼ 40″) Cluster Lens—RXC J0032.1+1808},author={Ana Acebron, Adi Zitrin, Dan Coe, Guillaume Mahler, Keren Sharon, Masamune Oguri, Maruša Bradač, Larry D Bradley, Brenda Frye, Christine J Forman, Victoria Strait, Yuanyuan Su, Keiichi Umetsu, Felipe,rade-Santos, Roberto J Avila, Daniela Carrasco, Catherine Cerny, Nicole G Czakon, William A Dawson, Carter Fox, Austin T Hoag, Kuang-Han Huang, Traci L Johnson, Shotaro Kikuchihara, Daniel Lam, Lorenzo Lovisari, Ramesh Mainali, Mario Nonino, Pascal A Oesch, Sara Ogaz, Masami Ouchi, Matthew Past, Rachel Paterno-Mahler, Avery Peterson, Russell E Ryan, Brett Salmon, Daniel P Stark, Sune Toft, Michele Trenti, Benedetta Vulcani, Brian Welch},year={2020}}"
+    },
+    {
+      "title": "{RELICS: A Very Large ({\\ensuremath{\\theta}} {\\ensuremath{\\sim}} 40″) Cluster Lens{\\textemdash}RXC J0032.1+1808}",
+      "authors": "Ana Acebron, Adi Zitrin, Dan Coe, Guillaume Mahler, Keren Sharon, Masamune Oguri, Maruša Bradač, Larry D Bradley, Brenda Frye, Christine J Forman, Victoria Strait, Yuanyuan Su, Keiichi Umetsu, Felipe,rade-Santos, Roberto J Avila, Daniela Carrasco, Catherine Cerny, Nicole G Czakon, William A Dawson, Carter Fox, Austin T Hoag, Kuang-Han Huang, Traci L Johnson, Shotaro Kikuchihara, Daniel Lam, Lorenzo Lovisari, Ramesh Mainali, Mario Nonino, Pascal A Oesch, Sara Ogaz, Masami Ouchi, Matthew Past, Rachel Paterno-Mahler, Avery Peterson, Russell E Ryan, Brett Salmon, Daniel P Stark, Sune Toft, Michele Trenti, Benedetta Vulcani, Brian Welch",
+      "highlightAuthor": "Catherine Cerny",
+      "venue": "Astrophysical Journal",
+      "year": 2020,
+      "type": "contributingauthor",
+      "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=600&h=300&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=200&h=200&fit=crop",
+      "description": "Extensive surveys with the Hubble Space Telescope over the past decade, targeting some of the most massive clusters in the sky, have uncovered dozens of galaxy cluster strong lenses. The massive clust...",
+      "pdfUrl": "https://orbi.uliege.be/bitstream/2268/333060/1/Acebron_2020_ApJ_898_6.pdf",
+      "url": "https://orbi.uliege.be/bitstream/2268/333060/1/Acebron_2020_ApJ_898_6.pdf",
+      "citations": 0,
+      "bibtex": "@article{ana2020,title={{RELICS: A Very Large ({\\ensuremath{\\theta}} {\\ensuremath{\\sim}} 40″) Cluster Lens{\\textemdash}RXC J0032.1+1808}},author={Ana Acebron, Adi Zitrin, Dan Coe, Guillaume Mahler, Keren Sharon, Masamune Oguri, Maruša Bradač, Larry D Bradley, Brenda Frye, Christine J Forman, Victoria Strait, Yuanyuan Su, Keiichi Umetsu, Felipe,rade-Santos, Roberto J Avila, Daniela Carrasco, Catherine Cerny, Nicole G Czakon, William A Dawson, Carter Fox, Austin T Hoag, Kuang-Han Huang, Traci L Johnson, Shotaro Kikuchihara, Daniel Lam, Lorenzo Lovisari, Ramesh Mainali, Mario Nonino, Pascal A Oesch, Sara Ogaz, Masami Ouchi, Matthew Past, Rachel Paterno-Mahler, Avery Peterson, Russell E Ryan, Brett Salmon, Daniel P Stark, Sune Toft, Michele Trenti, Benedetta Vulcani, Brian Welch},year={2020}}"
+    },
+    {
+      "title": "RELICS: reionization lensing cluster survey",
+      "authors": "Dan Coe, Brett Salmon, Maruša Bradač, Larry D Bradley, Keren Sharon, Adi Zitrin, Ana Acebron, Catherine Cerny, Nathália Cibirka, Victoria Strait, Rachel Paterno-Mahler, Guillaume Mahler, Roberto J Avila, Sara Ogaz, Kuang-Han Huang, Debora Pelliccia, Daniel P Stark, Ramesh Mainali, Pascal A Oesch, Michele Trenti, Daniela Carrasco, William A Dawson, Steven A Rodney, Louis-Gregory Strolger, Adam G Riess, Christine Jones, Brenda L Frye, Nicole G Czakon, Keiichi Umetsu, Benedetta Vulcani, Or Graur, Saurabh W Jha, Melissa L Graham, Alberto Molino, Mario Nonino, Jens Hjorth, Jonatan Selsing, Lise Christensen, Shotaro Kikuchihara, Masami Ouchi, Masamune Oguri, Brian Welch, Brian C Lemaux, Felipe,rade-Santos, Austin T Hoag, Traci L Johnson, Avery Peterson, Matthew Past, Carter Fox, Irene Agulli, Rachael Livermore, Russell E Ryan, Daniel Lam, Irene Sendra-Server, Sune Toft, Lorenzo Lovisari, Yuanyuan Su",
+      "highlightAuthor": "Catherine Cerny",
+      "venue": "The Astrophysical Journal",
+      "year": 2019,
+      "type": "contributingauthor",
+      "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=600&h=300&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=200&h=200&fit=crop",
+      "description": "Large surveys of galaxy clusters with the Hubble Space Telescope (HST), Spitzer, including the Cluster Lensing, Supernova survey with Hubble, the Frontier Fields, have demonstrated the power ...",
+      "pdfUrl": "https://iopscience.iop.org/article/10.3847/1538-4357/ab412b?theme=1e3bv5",
+      "url": "https://iopscience.iop.org/article/10.3847/1538-4357/ab412b?theme=1e3bv5",
+      "citations": 286,
+      "bibtex": "@article{dan2019,title={RELICS: reionization lensing cluster survey},author={Dan Coe, Brett Salmon, Maruša Bradač, Larry D Bradley, Keren Sharon, Adi Zitrin, Ana Acebron, Catherine Cerny, Nathália Cibirka, Victoria Strait, Rachel Paterno-Mahler, Guillaume Mahler, Roberto J Avila, Sara Ogaz, Kuang-Han Huang, Debora Pelliccia, Daniel P Stark, Ramesh Mainali, Pascal A Oesch, Michele Trenti, Daniela Carrasco, William A Dawson, Steven A Rodney, Louis-Gregory Strolger, Adam G Riess, Christine Jones, Brenda L Frye, Nicole G Czakon, Keiichi Umetsu, Benedetta Vulcani, Or Graur, Saurabh W Jha, Melissa L Graham, Alberto Molino, Mario Nonino, Jens Hjorth, Jonatan Selsing, Lise Christensen, Shotaro Kikuchihara, Masami Ouchi, Masamune Oguri, Brian Welch, Brian C Lemaux, Felipe,rade-Santos, Austin T Hoag, Traci L Johnson, Avery Peterson, Matthew Past, Carter Fox, Irene Agulli, Rachael Livermore, Russell E Ryan, Daniel Lam, Irene Sendra-Server, Sune Toft, Lorenzo Lovisari, Yuanyuan Su},year={2019}}"
+    },
+    {
+      "title": "RELICS: Strong Lensing Analysis of MACS J0417.5–1154, Predictions for Observing the Magnified High-redshift Universe with JWST",
+      "authors": "Guillaume Mahler, Keren Sharon, Carter Fox, Dan Coe, Mathilde Jauzac, Victoria Strait, Alastair Edge, Ana Acebron, Felipe,rade-Santos, Roberto J Avila, Maruša Bradač, Larry D Bradley, Daniela Carrasco, Catherine Cerny, Nathália Cibirka, Nicole G Czakon, William A Dawson, Brenda L Frye, Austin T Hoag, Kuang-Han Huang, Traci L Johnson, Christine Jones, Shotaro Kikuchihara, Daniel Lam, Rachael Livermore, Lorenzo Lovisari, Ramesh Mainali, Sara Ogaz, Masami Ouchi, Rachel Paterno-Mahler, Ian U Roederer, Russell E Ryan, Brett Salmon, Irene Sendra-Server, Daniel P Stark, Sune Toft, Michele Trenti, Keiichi Umetsu, Benedetta Vulcani, Adi Zitrin",
+      "highlightAuthor": "Catherine Cerny",
+      "venue": "The Astrophysical Journal",
+      "year": 2019,
+      "type": "contributingauthor",
+      "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=600&h=300&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=200&h=200&fit=crop",
+      "description": "Strong gravitational lensing by clusters of galaxies probes the mass distribution at the core of each cluster, magnifies the universe behind it. MACS J0417.5−1154 at z = 0.443 is one of the most ma...",
+      "pdfUrl": "https://iopscience.iop.org/article/10.3847/1538-4357/ab042b/meta",
+      "url": "https://iopscience.iop.org/article/10.3847/1538-4357/ab042b/meta",
+      "citations": 52,
+      "bibtex": "@article{guillaume2019,title={RELICS: Strong Lensing Analysis of MACS J0417.5–1154, Predictions for Observing the Magnified High-redshift Universe with JWST},author={Guillaume Mahler, Keren Sharon, Carter Fox, Dan Coe, Mathilde Jauzac, Victoria Strait, Alastair Edge, Ana Acebron, Felipe,rade-Santos, Roberto J Avila, Maruša Bradač, Larry D Bradley, Daniela Carrasco, Catherine Cerny, Nathália Cibirka, Nicole G Czakon, William A Dawson, Brenda L Frye, Austin T Hoag, Kuang-Han Huang, Traci L Johnson, Christine Jones, Shotaro Kikuchihara, Daniel Lam, Rachael Livermore, Lorenzo Lovisari, Ramesh Mainali, Sara Ogaz, Masami Ouchi, Rachel Paterno-Mahler, Ian U Roederer, Russell E Ryan, Brett Salmon, Irene Sendra-Server, Daniel P Stark, Sune Toft, Michele Trenti, Keiichi Umetsu, Benedetta Vulcani, Adi Zitrin},year={2019}}"
+    },
+    {
+      "title": "RELICS: High-resolution Constraints on the Inner Mass Distribution of the z = 0.83 Merging Cluster RXJ0152.7-1357 from Strong Lensing",
+      "authors": "Ana Acebron, May Alon, Adi Zitrin, Guillaume Mahler, Dan Coe, Keren Sharon, Nathália Cibirka, Maruša Bradač, Michele Trenti, Keiichi Umetsu, Felipe,rade-Santos, Roberto J Avila, Larry Bradley, Daniela Carrasco, Catherine Cerny, Nicole G Czakon, William A Dawson, Brenda Frye, Austin T Hoag, Kuang-Han Huang, Traci L Johnson, Christine Jones, Shotaro Kikuchihara, Daniel Lam, Rachael C Livermore, Lorenzo Lovisari, Ramesh Mainali, Pascal A Oesch, Sara Ogaz, Masami Ouchi, Matthew Past, Rachel Paterno-Mahler, Avery Peterson, Russell E Ryan, Brett Salmon, Irene Sendra-Server, Daniel P Stark, Victoria Strait, Sune Toft, Benedetta Vulcani",
+      "highlightAuthor": "Catherine Cerny",
+      "venue": "The Astrophysical Journal",
+      "year": 2019,
+      "type": "contributingauthor",
+      "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=600&h=300&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=200&h=200&fit=crop",
+      "description": "Strong gravitational lensing (SL) is a powerful means of mapping the distribution of dark matter. In this work, we perform an SL analysis of the prominent X-ray cluster RXJ0152.7-1357 (z = 0.83, also ...",
+      "pdfUrl": "https://iopscience.iop.org/article/10.3847/1538-4357/ab0adf/meta",
+      "url": "https://iopscience.iop.org/article/10.3847/1538-4357/ab0adf/meta",
+      "citations": 35,
+      "bibtex": "@article{ana2019,title={RELICS: High-resolution Constraints on the Inner Mass Distribution of the z = 0.83 Merging Cluster RXJ0152.7-1357 from Strong Lensing},author={Ana Acebron, May Alon, Adi Zitrin, Guillaume Mahler, Dan Coe, Keren Sharon, Nathália Cibirka, Maruša Bradač, Michele Trenti, Keiichi Umetsu, Felipe,rade-Santos, Roberto J Avila, Larry Bradley, Daniela Carrasco, Catherine Cerny, Nicole G Czakon, William A Dawson, Brenda Frye, Austin T Hoag, Kuang-Han Huang, Traci L Johnson, Christine Jones, Shotaro Kikuchihara, Daniel Lam, Rachael C Livermore, Lorenzo Lovisari, Ramesh Mainali, Pascal A Oesch, Sara Ogaz, Masami Ouchi, Matthew Past, Rachel Paterno-Mahler, Avery Peterson, Russell E Ryan, Brett Salmon, Irene Sendra-Server, Daniel P Stark, Victoria Strait, Sune Toft, Benedetta Vulcani},year={2019}}"
+    },
+    {
+      "title": "The Reionization Lensing Cluster Survey (RELICS), the Brightest High-z Galaxies",
+      "authors": "Brett Salmon, Dan Coe, Larry Bradley, Rychard Bouwens, Marusa Bradac, Kuang-Han Huang, Pascal Oesch, Daniel Stark, Keren Sharon, Michele Trenti, Roberto J Avila, Sara Ogaz, Felipe,rade-Santos, Daniela Carrasco, Catherine Cerny, William Dawson, Brenda L Frye, Austin Hoag, Traci Johnson, Christine Jones, Daniel Lam, Lorenzo Lovisari, Ramesh Mainali, Matt Past, Rachel Paterno-Mahler, Avery Peterson, Adam Reiss, Steven A Rodney, Russel Ryan, Irene Sendra-Server, Lou Strolger, Keiichi Umetsu, Benedetta Vulcani, Adi Zitrin",
+      "highlightAuthor": "Catherine Cerny",
+      "venue": "The Astrophysical Journal 889 (2), 189",
+      "year": 2019,
+      "type": "contributingauthor",
+      "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=600&h=300&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=200&h=200&fit=crop",
+      "description": "Massive foreground galaxy clusters magnify, distort the light of objects behind them, permitting a view into both the extremely distant, intrinsically faint galaxy populations. We present here t...",
+      "pdfUrl": "https://scholarlypublications.universiteitleiden.nl/access/item%3A3134349/download",
+      "url": "https://scholarlypublications.universiteitleiden.nl/access/item%3A3134349/download",
+      "citations": 0,
+      "bibtex": "@article{brett2019,title={The Reionization Lensing Cluster Survey (RELICS), the Brightest High-z Galaxies},author={Brett Salmon, Dan Coe, Larry Bradley, Rychard Bouwens, Marusa Bradac, Kuang-Han Huang, Pascal Oesch, Daniel Stark, Keren Sharon, Michele Trenti, Roberto J Avila, Sara Ogaz, Felipe,rade-Santos, Daniela Carrasco, Catherine Cerny, William Dawson, Brenda L Frye, Austin Hoag, Traci Johnson, Christine Jones, Daniel Lam, Lorenzo Lovisari, Ramesh Mainali, Matt Past, Rachel Paterno-Mahler, Avery Peterson, Adam Reiss, Steven A Rodney, Russel Ryan, Irene Sendra-Server, Lou Strolger, Keiichi Umetsu, Benedetta Vulcani, Adi Zitrin},year={2019}}"
+    },
+    {
+      "title": "RELICS: A Candidate z ∼ 10 Galaxy Strongly Lensed into a Spatially Resolved Arc",
+      "authors": "Brett Salmon, Dan Coe, Larry Bradley, Marusa Bradač, Victoria Strait, Rachel Paterno-Mahler, Kuang-Han Huang, Pascal A Oesch, Adi Zitrin, Ana Acebron, Nathália Cibirka, Shotaro Kikuchihara, Masamune Oguri, Gabriel B Brammer, Keren Sharon, Michele Trenti, Roberto J Avila, Sara Ogaz, Felipe,rade-Santos, Daniela Carrasco, Catherine Cerny, William Dawson, Brenda L Frye, Austin Hoag, Christine Jones, Ramesh Mainali, Masami Ouchi, Steven A Rodney, Daniel Stark, Keiichi Umetsu",
+      "highlightAuthor": "Catherine Cerny",
+      "venue": "The Astrophysical Journal Letters",
+      "year": 2018,
+      "type": "contributingauthor",
+      "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=600&h=300&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=200&h=200&fit=crop",
+      "description": "The most distant galaxies known are at z ∼ 10–11, observed 400–500 Myr after the Big Bang. The few z ∼ 10–11 candidates discovered to date have been exceptionally small, barely resolved, if at all, by...",
+      "pdfUrl": "https://iopscience.iop.org/article/10.3847/2041-8213/aadc10/meta",
+      "url": "https://iopscience.iop.org/article/10.3847/2041-8213/aadc10/meta",
+      "citations": 108,
+      "bibtex": "@article{brett2018,title={RELICS: A Candidate z ∼ 10 Galaxy Strongly Lensed into a Spatially Resolved Arc},author={Brett Salmon, Dan Coe, Larry Bradley, Marusa Bradač, Victoria Strait, Rachel Paterno-Mahler, Kuang-Han Huang, Pascal A Oesch, Adi Zitrin, Ana Acebron, Nathália Cibirka, Shotaro Kikuchihara, Masamune Oguri, Gabriel B Brammer, Keren Sharon, Michele Trenti, Roberto J Avila, Sara Ogaz, Felipe,rade-Santos, Daniela Carrasco, Catherine Cerny, William Dawson, Brenda L Frye, Austin Hoag, Christine Jones, Ramesh Mainali, Masami Ouchi, Steven A Rodney, Daniel Stark, Keiichi Umetsu},year={2018}}"
+    },
+    {
+      "title": "Relics: Strong lens models for five galaxy clusters from the reionization lensing cluster survey",
+      "authors": "Catherine Cerny, Keren Sharon, Felipe,rade-Santos, Roberto J Avila, Maruša Bradač, Larry D Bradley, Daniela Carrasco, Dan Coe, Nicole G Czakon, William A Dawson, Brenda L Frye, Austin Hoag, Kuang-Han Huang, Traci L Johnson, Christine Jones, Daniel Lam, Lorenzo Lovisari, Ramesh Mainali, Pascal A Oesch, Sara Ogaz, Matthew Past, Rachel Paterno-Mahler, Avery Peterson, Adam G Riess, Steven A Rodney, Russell E Ryan, Brett Salmon, Irene Sendra-Server, Daniel P Stark, Louis-Gregory Strolger, Michele Trenti, Keiichi Umetsu, Benedetta Vulcani, Adi Zitrin",
+      "highlightAuthor": "Catherine Cerny",
+      "venue": "The Astrophysical Journal",
+      "year": 2018,
+      "type": "firstauthor",
+      "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=600&h=300&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=200&h=200&fit=crop",
+      "description": "Strong gravitational lensing by galaxy clusters magnifies background galaxies, enhancing our ability to discover statistically significant samples of galaxies at       , in order to constrain the high...",
+      "pdfUrl": "https://iopscience.iop.org/article/10.3847/1538-4357/aabe7b/meta",
+      "url": "https://iopscience.iop.org/article/10.3847/1538-4357/aabe7b/meta",
+      "citations": 91,
+      "bibtex": "@article{catherine2018,title={Relics: Strong lens models for five galaxy clusters from the reionization lensing cluster survey},author={Catherine Cerny, Keren Sharon, Felipe,rade-Santos, Roberto J Avila, Maruša Bradač, Larry D Bradley, Daniela Carrasco, Dan Coe, Nicole G Czakon, William A Dawson, Brenda L Frye, Austin Hoag, Kuang-Han Huang, Traci L Johnson, Christine Jones, Daniel Lam, Lorenzo Lovisari, Ramesh Mainali, Pascal A Oesch, Sara Ogaz, Matthew Past, Rachel Paterno-Mahler, Avery Peterson, Adam G Riess, Steven A Rodney, Russell E Ryan, Brett Salmon, Irene Sendra-Server, Daniel P Stark, Louis-Gregory Strolger, Michele Trenti, Keiichi Umetsu, Benedetta Vulcani, Adi Zitrin},year={2018}}"
+    },
+    {
+      "title": "RELICS: Strong-lensing Analysis of the Massive Clusters MACS J0308. 9+ 2645, PLCK G171. 9− 40.7",
+      "authors": "Ana Acebron, Nathália Cibirka, Adi Zitrin, Dan Coe, Irene Agulli, Keren Sharon, Maruša Bradač, Brenda Frye, Rachael C Livermore, Guillaume Mahler, Brett Salmon, Keiichi Umetsu, Larry Bradley, Felipe,rade-Santos, Roberto Avila, Daniela Carrasco, Catherine Cerny, Nicole G Czakon, William A Dawson, Austin T Hoag, Kuang-Han Huang, Traci L Johnson, Christine Jones, Shotaro Kikuchihara, Daniel Lam, Lorenzo Lovisari, Ramesh Mainali, Pascal A Oesch, Sara Ogaz, Masami Ouchi, Matthew Past, Rachel Paterno-Mahler, Avery Peterson, Russell E Ryan, Irene Sendra-Server, Daniel P Stark, Victoria Strait, Sune Toft, Michele Trenti, Benedetta Vulcani",
+      "highlightAuthor": "Catherine Cerny",
+      "venue": "The Astrophysical Journal",
+      "year": 2018,
+      "type": "contributingauthor",
+      "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=600&h=300&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=200&h=200&fit=crop",
+      "description": "Strong gravitational lensing by galaxy clusters has become a powerful tool for probing the high-redshift universe, magnifying distant, faint background galaxies. Reliable strong-lensing (SL) models...",
+      "pdfUrl": "https://iopscience.iop.org/article/10.3847/1538-4357/aabe29/meta",
+      "url": "https://iopscience.iop.org/article/10.3847/1538-4357/aabe29/meta",
+      "citations": 49,
+      "bibtex": "@article{ana2018,title={RELICS: Strong-lensing Analysis of the Massive Clusters MACS J0308. 9+ 2645, PLCK G171. 9− 40.7},author={Ana Acebron, Nathália Cibirka, Adi Zitrin, Dan Coe, Irene Agulli, Keren Sharon, Maruša Bradač, Brenda Frye, Rachael C Livermore, Guillaume Mahler, Brett Salmon, Keiichi Umetsu, Larry Bradley, Felipe,rade-Santos, Roberto Avila, Daniela Carrasco, Catherine Cerny, Nicole G Czakon, William A Dawson, Austin T Hoag, Kuang-Han Huang, Traci L Johnson, Christine Jones, Shotaro Kikuchihara, Daniel Lam, Lorenzo Lovisari, Ramesh Mainali, Pascal A Oesch, Sara Ogaz, Masami Ouchi, Matthew Past, Rachel Paterno-Mahler, Avery Peterson, Russell E Ryan, Irene Sendra-Server, Daniel P Stark, Victoria Strait, Sune Toft, Michele Trenti, Benedetta Vulcani},year={2018}}"
+    },
+    {
+      "title": "RELICS: Strong Lensing analysis of the galaxy clusters Abell S295, Abell 697, MACS J0025. 4-1222,, MACS J0159. 8-0849",
+      "authors": "Nathália Cibirka, Ana Acebron, Adi Zitrin, Dan Coe, Irene Agulli, Felipe,rade-Santos, Maruša Bradač, Brenda Frye, Rachael C Livermore, Guillaume Mahler, Brett Salmon, Keren Sharon, Michele Trenti, Keiichi Umetsu, Roberto Avila, Larry Bradley, Daniela Carrasco, Catherine Cerny, Nicole G Czakon, William A Dawson, Austin T Hoag, Kuang-Han Huang, Traci L Johnson, Christine Jones, Shotaro Kikuchihara, Daniel Lam, Lorenzo Lovisari, Ramesh Mainali, Pascal A Oesch, Sara Ogaz, Masami Ouchi, Matthew Past, Rachel Paterno-Mahler, Avery Peterson, Russell E Ryan, Irene Sendra-Server, Daniel P Stark, Victoria Strait, Sune Toft, Benedetta Vulcani",
+      "highlightAuthor": "Catherine Cerny",
+      "venue": "The Astrophysical Journal",
+      "year": 2018,
+      "type": "contributingauthor",
+      "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=600&h=300&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=200&h=200&fit=crop",
+      "description": "We present a strong lensing analysis of four massive galaxy clusters imaged with the Hubble Space Telescope in the Reionization Lensing Cluster Survey. We use a light-traces-mass technique to uncover ...",
+      "pdfUrl": "https://iopscience.iop.org/article/10.3847/1538-4357/aad2d3/meta",
+      "url": "https://iopscience.iop.org/article/10.3847/1538-4357/aad2d3/meta",
+      "citations": 41,
+      "bibtex": "@article{nathália2018,title={RELICS: Strong Lensing analysis of the galaxy clusters Abell S295, Abell 697, MACS J0025. 4-1222,, MACS J0159. 8-0849},author={Nathália Cibirka, Ana Acebron, Adi Zitrin, Dan Coe, Irene Agulli, Felipe,rade-Santos, Maruša Bradač, Brenda Frye, Rachael C Livermore, Guillaume Mahler, Brett Salmon, Keren Sharon, Michele Trenti, Keiichi Umetsu, Roberto Avila, Larry Bradley, Daniela Carrasco, Catherine Cerny, Nicole G Czakon, William A Dawson, Austin T Hoag, Kuang-Han Huang, Traci L Johnson, Christine Jones, Shotaro Kikuchihara, Daniel Lam, Lorenzo Lovisari, Ramesh Mainali, Pascal A Oesch, Sara Ogaz, Masami Ouchi, Matthew Past, Rachel Paterno-Mahler, Avery Peterson, Russell E Ryan, Irene Sendra-Server, Daniel P Stark, Victoria Strait, Sune Toft, Benedetta Vulcani},year={2018}}"
+    },
+    {
+      "title": "RELICS: A Strong Lens Model for SPT-CLJ0615–5746, a z = 0.972 Cluster",
+      "authors": "Rachel Paterno-Mahler, Keren Sharon, Dan Coe, Guillaume Mahler, Catherine Cerny, Traci L Johnson, Tim Schrabback, Felipe,rade-Santos, Roberto J Avila, Maruša Bradač, Larry D Bradley, Daniela Carrasco, Nicole G Czakon, William A Dawson, Brenda L Frye, Austin T Hoag, Kuang-Han Huang, Christine Jones, Daniel Lam, Rachael Livermore, Lorenzo Lovisari, Ramesh Mainali, Pascal A Oesch, Sara Ogaz, Matthew Past, Avery Peterson, Russell E Ryan, Brett Salmon, Irene Sendra-Server, Daniel P Stark, Keiichi Umetsu, Benedetta Vulcani, Adi Zitrin",
+      "highlightAuthor": "Catherine Cerny",
+      "venue": "The Astrophysical Journal",
+      "year": 2018,
+      "type": "contributingauthor",
+      "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=600&h=300&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=200&h=200&fit=crop",
+      "description": "We present a lens model for the cluster SPT-CLJ0615−5746, which is the highest-redshift (z = 0.972) system in the Reionization of Lensing Clusters Survey, making it the highest-redshift cluster for wh...",
+      "pdfUrl": "https://iopscience.iop.org/article/10.3847/1538-4357/aad239/meta",
+      "url": "https://iopscience.iop.org/article/10.3847/1538-4357/aad239/meta",
+      "citations": 40,
+      "bibtex": "@article{rachel2018,title={RELICS: A Strong Lens Model for SPT-CLJ0615–5746, a z = 0.972 Cluster},author={Rachel Paterno-Mahler, Keren Sharon, Dan Coe, Guillaume Mahler, Catherine Cerny, Traci L Johnson, Tim Schrabback, Felipe,rade-Santos, Roberto J Avila, Maruša Bradač, Larry D Bradley, Daniela Carrasco, Nicole G Czakon, William A Dawson, Brenda L Frye, Austin T Hoag, Kuang-Han Huang, Christine Jones, Daniel Lam, Rachael Livermore, Lorenzo Lovisari, Ramesh Mainali, Pascal A Oesch, Sara Ogaz, Matthew Past, Avery Peterson, Russell E Ryan, Brett Salmon, Irene Sendra-Server, Daniel P Stark, Keiichi Umetsu, Benedetta Vulcani, Adi Zitrin},year={2018}}"
+    },
+    {
+      "title": "Magnetic field uniformity across the GF 9-2 YSO, L1082C dense core,, GF 9 filamentary dark cloud",
+      "authors": "Dan P Clemens, AM El-Batal, Catherine Cerny, S Kressy, G Schroeder, T Pillai",
+      "highlightAuthor": "Catherine Cerny",
+      "venue": "The Astrophysical Journal",
+      "year": 2018,
+      "type": "contributingauthor",
+      "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=600&h=300&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=200&h=200&fit=crop",
+      "description": "The orientation of the magnetic field (B field) in the filamentary dark cloud GF 9 was traced from the periphery of the cloud into the L1082C dense core that contains the low-mass, low-luminosity Clas...",
+      "pdfUrl": "https://iopscience.iop.org/article/10.3847/1538-4357/aae2af/meta",
+      "url": "https://iopscience.iop.org/article/10.3847/1538-4357/aae2af/meta",
+      "citations": 8,
+      "bibtex": "@article{dan2018,title={Magnetic field uniformity across the GF 9-2 YSO, L1082C dense core,, GF 9 filamentary dark cloud},author={Dan P Clemens, AM El-Batal, Catherine Cerny, S Kressy, G Schroeder, T Pillai},year={2018}}"
+    },
+    {
+      "title": "Magnetic Field Uniformity Across the GF 9-2 YSO, L1082C Dense Core,, GF 9 Filamentary Dark Cloud (vol 867, 79, 2018)",
+      "authors": "Dan P Clemens, AM El Batal, C Cerny, S Kressy, G Schroeder, T Pillai",
+      "highlightAuthor": "Catherine Cerny",
+      "venue": "ASTROPHYSICAL JOURNAL",
+      "year": 2018,
+      "type": "contributingauthor",
+      "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=600&h=300&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=200&h=200&fit=crop",
+      "description": "",
+      "pdfUrl": "https://scholar.google.com/scholar?cluster=8953187027376205871&hl=en&oi=scholarr",
+      "url": "https://scholar.google.com/scholar?cluster=8953187027376205871&hl=en&oi=scholarr",
+      "citations": 0,
+      "bibtex": "@article{dan2018,title={Magnetic Field Uniformity Across the GF 9-2 YSO, L1082C Dense Core,, GF 9 Filamentary Dark Cloud (vol 867, 79, 2018)},author={Dan P Clemens, AM El Batal, C Cerny, S Kressy, G Schroeder, T Pillai},year={2018}}"
+    },
+    {
+      "title": "A Candidate  Galaxy Strongly Lensed into a Spatially Resolved Arc",
+      "authors": "Brett Salmon, Dan Coe, Larry Bradley, Marusa Bradač, Kuang-Han Huang, Victoria Strait, Pascal Oesch, Rachel Paterno-Mahler, Adi Zitrin, Ana Acebron, Nathália Cibirka, Shotaro Kikuchihara, Masamune Oguri, Gabriel B Brammer, Keren Sharon, Michele Trenti, Roberto J Avila, Sara Ogaz, Felipe,rade-Santos, Daniela Carrasco, Catherine Cerny, William Dawson, Brenda L Frye, Austin Hoag, Christine Jones, Ramesh Mainali, Masami Ouchi, Steven A Rodney, Daniel Stark, Keiichi Umetsu",
+      "highlightAuthor": "Catherine Cerny",
+      "venue": "arXiv preprint arXiv:1801.03103",
+      "year": 2018,
+      "type": "contributingauthor",
+      "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=600&h=300&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=200&h=200&fit=crop",
+      "description": "The most distant galaxies known are at z~10-11, observed 400-500 Myr after the Big Bang. The few z~10-11 candidates discovered to date have been exceptionally small- barely resolved, if at all, by the...",
+      "pdfUrl": "https://arxiv.org/abs/1801.03103",
+      "url": "https://arxiv.org/abs/1801.03103",
+      "citations": 0,
+      "bibtex": "@inproceedings{brett2018,title={A Candidate  Galaxy Strongly Lensed into a Spatially Resolved Arc},author={Brett Salmon, Dan Coe, Larry Bradley, Marusa Bradač, Kuang-Han Huang, Victoria Strait, Pascal Oesch, Rachel Paterno-Mahler, Adi Zitrin, Ana Acebron, Nathália Cibirka, Shotaro Kikuchihara, Masamune Oguri, Gabriel B Brammer, Keren Sharon, Michele Trenti, Roberto J Avila, Sara Ogaz, Felipe,rade-Santos, Daniela Carrasco, Catherine Cerny, William Dawson, Brenda L Frye, Austin Hoag, Christine Jones, Ramesh Mainali, Masami Ouchi, Steven A Rodney, Daniel Stark, Keiichi Umetsu},year={2018}}"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Postdoctoral Researcher",
+      "organization": "University of Michigan",
+      "description": "Co-lead the strong lensing working group in the international SLICE collaboration, mentor undegraduate students, and lead projects on strong lensing in clusters to characterize dark matter and unique lensing configurations.",
+      "years": "2024 — 2026",
+      "icon": "globe"
+    }
+  ],
+  "education": [
+    {
+      "title": "Ph.D. in Physics",
+      "organization": "University of Durham",
+      "description": "Dissertation: \"A glimpse into the 'core-cusp' problem in clusters of galaxies: a combination of Hubble Space Telescope imaging, VLT/MUSE spectroscopy, and strong gravitational lensing.\" Advised by Prof. Mathilde Jauzac.",
+      "years": "2020 — 2024",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Durham_shield.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+    },
+    {
+      "title": "M.A. in Astronomy",
+      "organization": "Boston University",
+      "description": "",
+      "years": "2017 — 2019",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjG3vuOm7rV6vi_3pTAEMQpGw5stOiMnIwNj3I_iqEMQ&s=10"
+    },
+    {
+      "title": "B.S. in Astronomy and Astrophysics",
+      "organization": "University of Michigan",
+      "description": "Graduated with highest honors. Thesis on gravitational lensing in RELICS clusters.",
+      "years": "2012 — 2016",
+      "logo": "https://brand.umich.edu/assets/brand/style-guide/logo-guidelines/U-M_Logo-Hex.png"
+    },
+    {
+      "title": "B.S. in Interdisciplinary Physics",
+      "organization": "University of Michigan",
+      "description": "",
+      "years": "2012 — 2016",
+      "logo": "https://brand.umich.edu/assets/brand/style-guide/logo-guidelines/U-M_Logo-Hex.png"
+    },
+    {
+      "title": "B.A. in Asian Studies",
+      "organization": "University of Michigan",
+      "description": "",
+      "years": "2012 — 2016",
+      "logo": "https://brand.umich.edu/assets/brand/style-guide/logo-guidelines/U-M_Logo-Hex.png"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Best Paper Award",
+      "subtitle": "Conference X, 2024",
+      "url": "https://example.edu/best-paper",
+      "icon": "award",
+      "iconColor": "warm",
+      "organizer": "Conference X Organizing Committee",
+      "location": "Singapore",
+      "date": "July 2024",
+      "certificateName": "Best Paper Award Certificate",
+      "details": "Recognized for outstanding research contribution and presentation quality in a competitive international conference setting.",
+      "certificateImage": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=900&q=80",
+      "certificateUrl": "https://example.edu/best-paper-certificate"
+    },
+    {
+      "title": "Demo Prize",
+      "subtitle": "Symposium Y, 2023",
+      "url": "https://example.edu/demo-prize",
+      "icon": "star",
+      "iconColor": "warm",
+      "organizer": "Symposium Y",
+      "location": "Boston, USA",
+      "date": "October 2023",
+      "certificateName": "Demo Prize Recognition",
+      "details": "Awarded for presenting an engaging live demonstration with strong research-to-practice impact and audience response.",
+      "certificateImage": "https://images.unsplash.com/photo-1511578314322-379afb476865?auto=format&fit=crop&w=900&q=80",
+      "certificateUrl": "https://example.edu/demo-prize-certificate"
+    },
+    {
+      "title": "Graduate Fellowship",
+      "subtitle": "Foundation Z, 2021",
+      "url": "https://example.edu/fellowship",
+      "icon": "cap",
+      "iconColor": "warm",
+      "organizer": "Foundation Z",
+      "location": "Dhaka, Bangladesh",
+      "date": "January 2021",
+      "certificateName": "Graduate Fellowship Award",
+      "details": "Competitive fellowship supporting graduate research, academic development, and scholarly excellence.",
+      "certificateImage": "https://images.unsplash.com/photo-1516321310764-8d2ef7a13f7b?auto=format&fit=crop&w=900&q=80",
+      "certificateUrl": "https://example.edu/fellowship-certificate"
+    },
+    {
+      "title": "UX Research Certificate",
+      "subtitle": "Provider A, 2023",
+      "url": "https://example.edu/ux-cert",
+      "icon": "monitor",
+      "iconColor": "accent",
+      "organizer": "Provider A",
+      "location": "Online",
+      "date": "March 2023",
+      "certificateName": "UX Research Professional Certificate",
+      "details": "Completed structured training in research planning, usability evaluation, and evidence-based interface design.",
+      "certificateImage": "https://images.unsplash.com/photo-1516321497487-e288fb19713f?auto=format&fit=crop&w=900&q=80",
+      "certificateUrl": "https://example.edu/ux-research-certificate"
+    },
+    {
+      "title": "Data Privacy Training",
+      "subtitle": "Provider B, 2022",
+      "url": "https://example.edu/privacy",
+      "icon": "shield",
+      "iconColor": "sage",
+      "organizer": "Provider B",
+      "location": "Online",
+      "date": "August 2022",
+      "certificateName": "Data Privacy Compliance Certificate",
+      "details": "Certified in research data privacy, safe handling of participant information, and responsible data management practices.",
+      "certificateImage": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?auto=format&fit=crop&w=900&q=80",
+      "certificateUrl": "https://example.edu/privacy-certificate"
+    },
+    {
+      "title": "Open Source Contributor",
+      "subtitle": "Project C, 2022",
+      "url": "https://example.edu/oss",
+      "icon": "code",
+      "iconColor": "accent",
+      "organizer": "Project C Maintainers",
+      "location": "Global / Remote",
+      "date": "December 2022",
+      "certificateName": "Contributor Recognition",
+      "details": "Recognized for consistent open-source contributions, technical collaboration, and community support in a research-related software project.",
+      "certificateImage": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=900&q=80",
+      "certificateUrl": "https://example.edu/oss-recognition"
+    }
+  ],
+  "contact": {
+    "email": "cecerny@umich.edu",
+    "phone": "323 West Hall, 1085 S University Ave, Ann Arbor, MI 48109",
+    "office": "323 West Hall, 1085 S University Ave, Ann Arbor, MI 48109",
+    "cvUrl": "https://example.edu/cv.pdf",
+    "mapEmbed": "",
+    "socials": [
+      {
+        "platform": "SciX Library",
+        "url": "https://scixplorer.org/public-libraries/7Ybc9IHdS4mV7MdYzflC-g"
+      },
+      {
+        "platform": "orcid",
+        "url": "https://orcid.org/0000-0002-8261-9098"
+      },
+      {
+        "platform": "google-scholar",
+        "url": "https://scholar.google.com/citations?hl=en&user=ZcPcleIAAAAJ"
+      },
+      {
+        "platform": "linkedin",
+        "url": "https://linkedin.com/in/cecerny"
+      }
+    ]
+  },
+  "cv": {
+    "title": "Academic CV",
+    "description": "Use this area for a complete academic CV covering education, publications, teaching, research activities, and service.",
+    "note": "You can later connect this button to a PDF CV, resume, or full profile page.",
+    "buttonLabel": "View CV",
+    "url": "https://example.edu/cv.pdf"
+  },
+  "footer": {
+    "copyright": "Catherine Cerny",
+    "repoUrl": "https://github.com/riponcm/acadpro",
+    "designedBy": "Ripon Chandra Malo",
+    "version": ""
+  },
+  "settings": {
+    "template": "phd",
+    "templateLabel": "Postdoctoral Researcher",
+    "_template_options": "Available templates: 'phd' (student view), 'professor' (professor/teacher view)",
+    "demoTemplateSwitcher": false,
+    "publicationStyle": "alt",
+    "scholarId": "ZcPcleIAAAAJ",
+    "_theme_options": "Available themes: 'BH' (default light), 'blue' (academic light blue), 'dark'",
+    "theme": "blue"
+  }
+}
